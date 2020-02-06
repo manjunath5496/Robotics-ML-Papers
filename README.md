@@ -26,6 +26,14 @@
                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Robotics-ML-Papers/blob/master/rml(22).pdf" style="text-decoration:none;">Deterministic Policy Gradient Algorithms</a></b></li>
                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Robotics-ML-Papers/blob/master/rml(23).pdf" style="text-decoration:none;">Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning </a></b></li>
 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Robotics-ML-Papers/blob/master/rml(24).pdf" style="text-decoration:none;">Artificial Intelligence and Robotics</a></b></li>
+
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Robotics-ML-Papers/blob/master/rml(25).pdf" style="text-decoration:none;"> Deep Learning for Robotics</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Robotics-ML-Papers/blob/master/rml(26).pdf" style="text-decoration:none;">Integration of Machine Learning and Optimization for Robot Learning</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Robotics-ML-Papers/blob/master/rml(27).pdf" style="text-decoration:none;">Reinforcement Learning in Robotics: A Survey</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Robotics-ML-Papers/blob/master/rml(28).pdf" style="text-decoration:none;">A Survey of Machine Learning Approaches to Robotic Path-Planning </a></b></li>
+
   
 
 
