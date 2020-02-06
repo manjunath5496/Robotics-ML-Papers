@@ -33,7 +33,7 @@
                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Robotics-ML-Papers/blob/master/rml(26).pdf" style="text-decoration:none;">Integration of Machine Learning and Optimization for Robot Learning</a></b></li>
                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Robotics-ML-Papers/blob/master/rml(27).pdf" style="text-decoration:none;">Reinforcement Learning in Robotics: A Survey</a></b></li>
                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Robotics-ML-Papers/blob/master/rml(28).pdf" style="text-decoration:none;">A Survey of Machine Learning Approaches to Robotic Path-Planning </a></b></li>
-
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Robotics-ML-Papers/blob/master/rml(29).pdf" style="text-decoration:none;">Deep Learning in Robotics: A Review of Recent Research </a></b></li>
   
 
 
